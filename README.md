@@ -2,17 +2,19 @@
 
 ## Description
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-This repository is a refactored version of the Horiseon website. The goal of the refactoring was to improve the code, but keep it looking exactly the same as the original. The following changes were made:
-* Improve accessibility with better HTML tags like 
+This repository is a refactored version of the Horiseon website. The goal of the refactoring was to improve the code and its accessibility features, but keep it looking exactly the same as the original. The following changes were made:
+* Improve accessibility with better HTML tags and alt tags. 
 * Improve readibility of the HTML and CSS file.
 * Fix some website functionality.
 
-### Description of Changes
+Hopefully with these changes, people with accessibility needs will be able to use this site better.
+
+I learned the importance of having proper HTML tags, not having redundant element stylings, and how a hero banner works. I also learned that when code/styling is properly thought out and organized, it's much easier to manage and edit.
+
+### Website Referrence Picture
+![Horiseon Referrence](./assets/images/horiseon-website-referrence.png)
+
+### Some Examples of Changes
 Better HTML tags were chosen. Example:
 
 Before:
