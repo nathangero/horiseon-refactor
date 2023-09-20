@@ -18,13 +18,13 @@ I learned the importance of having proper HTML tags, not having redundant elemen
 Better HTML tags were chosen. Example:
 
 Before:
-```
+```html
 <div class="header">
 </div>
 ```
 
 After:
-```
+```html
 <header>
 </header>
 ```
@@ -32,7 +32,7 @@ After:
 Some of the CSS styling was redundant so I consolidated them under a common class, and reflected the changes on the HTML file so the style works. Example:
 
 Before:
-```
+```css
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -62,7 +62,7 @@ Before:
 ```
 
 After:
-```
+```css
 .content {
     margin-bottom: 20px;
     padding: 50px;
